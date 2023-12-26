@@ -1,0 +1,7 @@
+D:\F9Class\Fundamental_9\Day8_SMN\bin\Debug\Day8_SMN.exe.config
+D:\F9Class\Fundamental_9\Day8_SMN\bin\Debug\Day8_SMN.exe
+D:\F9Class\Fundamental_9\Day8_SMN\bin\Debug\Day8_SMN.pdb
+D:\F9Class\Fundamental_9\Day8_SMN\obj\Debug\Day8_SMN.csproj.AssemblyReference.cache
+D:\F9Class\Fundamental_9\Day8_SMN\obj\Debug\Day8_SMN.csproj.CoreCompileInputs.cache
+D:\F9Class\Fundamental_9\Day8_SMN\obj\Debug\Day8_SMN.exe
+D:\F9Class\Fundamental_9\Day8_SMN\obj\Debug\Day8_SMN.pdb

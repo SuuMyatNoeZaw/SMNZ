@@ -1,0 +1,8 @@
+D:\F9Class\Fundamental_9\Day5_SMN\bin\Debug\Day5_SMN.exe.config
+D:\F9Class\Fundamental_9\Day5_SMN\bin\Debug\Day5_SMN.exe
+D:\F9Class\Fundamental_9\Day5_SMN\bin\Debug\Day5_SMN.pdb
+D:\F9Class\Fundamental_9\Day5_SMN\obj\Debug\Day5_SMN.csproj.AssemblyReference.cache
+D:\F9Class\Fundamental_9\Day5_SMN\obj\Debug\Day5_SMN.csproj.SuggestedBindingRedirects.cache
+D:\F9Class\Fundamental_9\Day5_SMN\obj\Debug\Day5_SMN.csproj.CoreCompileInputs.cache
+D:\F9Class\Fundamental_9\Day5_SMN\obj\Debug\Day5_SMN.exe
+D:\F9Class\Fundamental_9\Day5_SMN\obj\Debug\Day5_SMN.pdb

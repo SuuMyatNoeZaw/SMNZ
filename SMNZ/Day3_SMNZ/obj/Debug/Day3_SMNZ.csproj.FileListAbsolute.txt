@@ -1,0 +1,7 @@
+D:\F9Class\Fundamental_9\Day3_SMNZ\bin\Debug\Day3_SMNZ.exe.config
+D:\F9Class\Fundamental_9\Day3_SMNZ\bin\Debug\Day3_SMNZ.exe
+D:\F9Class\Fundamental_9\Day3_SMNZ\bin\Debug\Day3_SMNZ.pdb
+D:\F9Class\Fundamental_9\Day3_SMNZ\obj\Debug\Day3_SMNZ.csproj.AssemblyReference.cache
+D:\F9Class\Fundamental_9\Day3_SMNZ\obj\Debug\Day3_SMNZ.csproj.CoreCompileInputs.cache
+D:\F9Class\Fundamental_9\Day3_SMNZ\obj\Debug\Day3_SMNZ.exe
+D:\F9Class\Fundamental_9\Day3_SMNZ\obj\Debug\Day3_SMNZ.pdb
